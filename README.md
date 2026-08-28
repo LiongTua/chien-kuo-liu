@@ -57,3 +57,6 @@
 ## v8.1 SEO
 - Canonical 主網址：https://chienkuo-tw.vercel.app/
 - 新增 meta description、Open Graph、Person JSON-LD、robots.txt、sitemap.xml。
+
+## v8.2
+- 重整 `works-list.html`：同一作品僅列一次，合併編劇／導演／主演職務，並以「創作與實踐」頁的完整製作／劇團名稱為準。
